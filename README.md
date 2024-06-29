@@ -1,4 +1,3 @@
-```markdown
 # Chat-with-Knowledge-Library-Healthcare
 
 ## Project Description
